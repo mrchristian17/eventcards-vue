@@ -1,4 +1,4 @@
-# real-world-vue2
+# eventcards-vue
 
 ## Project setup
 ```
